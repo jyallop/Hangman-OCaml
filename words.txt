@@ -1,0 +1,7 @@
+hangman
+word
+cool
+rad
+exciting
+skiing
+mountain biking
